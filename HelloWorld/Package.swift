@@ -18,7 +18,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(name:"AlfredSwift", url: "https://github.com/iT-Boyer/AlfredSwiftLibrary.git", from: "1.0.2"),
+        .package(name:"AlfredSwift", url: "https://github.com/iT-Boyer/AlfredSwift.git", from: "1.0.0"),
         .package(url: "https://github.com/apple/swift-argument-parser", from: "0.4.0"),
         .package(name:"Regex", url: "https://github.com/sharplet/Regex.git", from: "2.1.1"),
         .package(name:"SwiftyJSON", url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.1"),

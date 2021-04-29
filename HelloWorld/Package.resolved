@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "AlfredSwift",
-        "repositoryURL": "https://github.com/iT-Boyer/AlfredSwiftLibrary.git",
+        "repositoryURL": "https://github.com/iT-Boyer/AlfredSwift.git",
         "state": {
           "branch": null,
-          "revision": "b024418f53c54e69bdef827bf4653fdecacecfcd",
-          "version": "1.0.6"
+          "revision": "c5480fca5fb6617136cea0b43381fd31f786f53a",
+          "version": "1.0.1"
         }
       },
       {

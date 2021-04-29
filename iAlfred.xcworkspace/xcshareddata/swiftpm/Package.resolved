@@ -3,16 +3,16 @@
     "pins": [
       {
         "package": "AlfredSwift",
-        "repositoryURL": "git@github.com:iT-Boyer/AlfredSwiftLibrary.git",
+        "repositoryURL": "git@github.com:iT-Boyer/AlfredSwift.git",
         "state": {
           "branch": null,
-          "revision": "34f2cbf25fdb4eddb64e9e776d65c4de7fbff933",
-          "version": "1.0.5"
+          "revision": "c5480fca5fb6617136cea0b43381fd31f786f53a",
+          "version": "1.0.1"
         }
       },
       {
         "package": "PythonKit",
-        "repositoryURL": "https://github.com/pvieito/PythonKit.git",
+        "repositoryURL": "git@github.com:pvieito/PythonKit.git",
         "state": {
           "branch": null,
           "revision": "074622c6893188bbb7926eee2f7eece8a5124c47",
