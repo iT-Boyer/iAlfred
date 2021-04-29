@@ -155,3 +155,5 @@ DerivedData/
 
 
 workflow
+__pycache__
+Alfred_Workflow-1.40.0.dist-info
