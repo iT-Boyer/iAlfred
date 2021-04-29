@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AlfredSwift",
+        "repositoryURL": "git@github.com:iT-Boyer/AlfredSwiftLibrary.git",
+        "state": {
+          "branch": null,
+          "revision": "34f2cbf25fdb4eddb64e9e776d65c4de7fbff933",
+          "version": "1.0.5"
+        }
+      },
+      {
+        "package": "PythonKit",
+        "repositoryURL": "https://github.com/pvieito/PythonKit.git",
+        "state": {
+          "branch": null,
+          "revision": "074622c6893188bbb7926eee2f7eece8a5124c47",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Regex",
+        "repositoryURL": "git@github.com:sharplet/Regex.git",
+        "state": {
+          "branch": null,
+          "revision": "76c2b73d4281d77fc3118391877efd1bf972f515",
+          "version": "2.1.1"
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://gitee.com/iTBoyer/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "47bd06ebeff8146ecd0020809e186218b46f465f",
+          "version": "0.4.2"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "git@github.com:SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+          "version": "5.0.1"
+        }
+      },
+      {
+        "package": "XMLParsing",
+        "repositoryURL": "git@github.com:ShawnMoore/XMLParsing.git",
+        "state": {
+          "branch": null,
+          "revision": "2b77a8078d9695aac1a0e5806768e819025174c3",
+          "version": "0.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
