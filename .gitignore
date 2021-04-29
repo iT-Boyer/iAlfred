@@ -151,8 +151,6 @@ Packages
 .build/
 xcuserdata
 DerivedData/
-*.xcodeproj
-
 
 workflow
 __pycache__
