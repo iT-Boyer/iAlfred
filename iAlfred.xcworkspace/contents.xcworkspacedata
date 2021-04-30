@@ -1,93 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "group:Python"
-      name = "Python">
-      <Group
-         location = "group:workflow"
-         name = "workflow">
-         <FileRef
-            location = "group:update.py">
-         </FileRef>
-         <FileRef
-            location = "group:web.py">
-         </FileRef>
-         <FileRef
-            location = "group:update.pyc">
-         </FileRef>
-         <FileRef
-            location = "group:workflow3.pyc">
-         </FileRef>
-         <FileRef
-            location = "group:util.py">
-         </FileRef>
-         <FileRef
-            location = "group:background.pyc">
-         </FileRef>
-         <FileRef
-            location = "group:background.py">
-         </FileRef>
-         <FileRef
-            location = "group:__init__.py">
-         </FileRef>
-         <FileRef
-            location = "group:notify.py">
-         </FileRef>
-         <Group
-            location = "group:__pycache__"
-            name = "__pycache__">
-            <FileRef
-               location = "group:__init__.cpython-39.pyc">
-            </FileRef>
-            <FileRef
-               location = "group:workflow.cpython-39.pyc">
-            </FileRef>
-            <FileRef
-               location = "group:web.cpython-39.pyc">
-            </FileRef>
-            <FileRef
-               location = "group:workflow3.cpython-39.pyc">
-            </FileRef>
-            <FileRef
-               location = "group:util.cpython-39.pyc">
-            </FileRef>
-         </Group>
-         <FileRef
-            location = "group:web.pyc">
-         </FileRef>
-         <FileRef
-            location = "group:notify.pyc">
-         </FileRef>
-         <FileRef
-            location = "group:version">
-         </FileRef>
-         <FileRef
-            location = "group:Notify.tgz">
-         </FileRef>
-         <FileRef
-            location = "group:__init__.pyc">
-         </FileRef>
-         <FileRef
-            location = "group:workflow.py">
-         </FileRef>
-         <FileRef
-            location = "group:workflow.pyc">
-         </FileRef>
-         <FileRef
-            location = "group:workflow3.py">
-         </FileRef>
-         <FileRef
-            location = "group:util.pyc">
-         </FileRef>
-      </Group>
-      <FileRef
-         location = "group:hot_Swft.py">
-      </FileRef>
-      <FileRef
-         location = "group:hot.py">
-      </FileRef>
-   </Group>
    <FileRef
       location = "group:AlfredSwift/AlfredSwift.xcodeproj">
    </FileRef>
@@ -96,5 +9,23 @@
    </FileRef>
    <FileRef
       location = "group:Zhot/Zhot.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Python">
+   </FileRef>
+   <FileRef
+      location = "group:iPapp">
+   </FileRef>
+   <FileRef
+      location = "group:iAutomator">
+   </FileRef>
+   <FileRef
+      location = "group:iRuby">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jhmac/hsg/iAlfred/swift-sh">
+   </FileRef>
+   <FileRef
+      location = "group:fastlane/swift/FastlaneSwiftRunner/FastlaneSwiftRunner.xcodeproj">
    </FileRef>
 </Workspace>
