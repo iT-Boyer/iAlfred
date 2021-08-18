@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-# Scrapy settings for First project
+# Scrapy settings for Movies project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,17 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'First'
+BOT_NAME = 'Movies'
 
-SPIDER_MODULES = ['First.spiders']
-NEWSPIDER_MODULE = 'First.spiders'
+SPIDER_MODULES = ['Movies.spiders']
+NEWSPIDER_MODULE = 'Movies.spiders'
 
-FEED_EXPORTERS_BASE = {
-    # 'json': 'First.recode.recodes',#这个位置注意是文件索引，根据你实际情况修改。
-    # 'jsonlines' : 'scrapy.contrib.exporter.JsonLinesItemExporter'
-}
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'First (+http://www.yourdomain.com)'
+#USER_AGENT = 'Movies (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -50,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'First.middlewares.FirstSpiderMiddleware': 543,
+#    'Movies.middlewares.MoviesSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'First.middlewares.FirstDownloaderMiddleware': 543,
+#    'Movies.middlewares.MoviesDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -68,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'First.pipelines.FirstPipeline': 300,
+#    'Movies.pipelines.MoviesPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

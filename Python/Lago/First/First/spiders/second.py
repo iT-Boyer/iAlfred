@@ -12,7 +12,7 @@ class SecondSpider(scrapy.Spider):
 
     def parse(self, response):
         for item in response.xpath('//div[@class="menu_box"]/div/dl/dd/a'):
-            jobClass = item.xpath('text()').extract()#提取文本内容
+            jobClass = item.xpath('string()').extract()#提取文本内容
             jobUrl = item.xpath("@href").extract_first()#提取链接内容
 
             oneItem = FirstItem()#实例化一个item对象，将获取到的数据存入
