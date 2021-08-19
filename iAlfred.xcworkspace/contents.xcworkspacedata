@@ -23,7 +23,7 @@
       location = "group:iRuby">
    </FileRef>
    <FileRef
-      location = "group:/Users/jhmac/hsg/iAlfred/swift-sh">
+      location = "group:swift-sh">
    </FileRef>
    <FileRef
       location = "group:fastlane/swift/FastlaneSwiftRunner/FastlaneSwiftRunner.xcodeproj">
