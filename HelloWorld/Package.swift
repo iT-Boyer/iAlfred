@@ -24,6 +24,8 @@ let package = Package(
         .package(name:"SwiftyJSON", url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.1"),
         .package(name:"PythonKit", url: "https://github.com/pvieito/PythonKit.git", from: "0.0.0"),
         .package(name:"XMLParsing", url: "https://github.com/ShawnMoore/XMLParsing.git", from: "0.0.1"),
+        .package(name:"XcodeProj", url: "https://github.com/tuist/xcodeproj.git", from: "8.0.0"),
+        .package(name:"PathKit", url: "https://github.com/tuist/xcodeproj.git", from: "8.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
