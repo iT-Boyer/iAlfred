@@ -1,4 +1,4 @@
-//
+#!/usr/bin/swift sh
 //  main.swift
 //  Zhot
 //
@@ -56,6 +56,7 @@ extension hot_cli {
         //MARK: 配置
         static var configuration = CommandConfiguration(abstract:"查看热榜",
                                                         shouldDisplay: true)
+        
         //加载封装好的指令
         // @OptionGroup()
         // var customOpts:HotOptions
@@ -80,7 +81,7 @@ extension hot_cli {
                         //解析
                         let json: JSON = try! JSON(data:data!)
                         let posts = json["data"]
-                        
+          
                         pythonInstall()
 //                        sendAlfredBySwift(posts)
 //                        sendAlfredByPythonKit(posts)
