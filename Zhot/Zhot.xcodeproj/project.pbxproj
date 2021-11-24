@@ -29,7 +29,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B3F293E1274E48F900C02FFF /* Zhot-sh */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Zhot-sh"; sourceTree = "<group>"; };
 		F952BDF2263A7A3A00BA8E92 /* Zhot */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Zhot; sourceTree = BUILT_PRODUCTS_DIR; };
 		F952BDF5263A7A3A00BA8E92 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,7 +70,6 @@
 		F952BDF4263A7A3A00BA8E92 /* Zhot */ = {
 			isa = PBXGroup;
 			children = (
-				B3F293E1274E48F900C02FFF /* Zhot-sh */,
 				F952BDF5263A7A3A00BA8E92 /* main.swift */,
 			);
 			path = Zhot;
