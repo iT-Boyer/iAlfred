@@ -3,7 +3,7 @@
 	url = https://github.com/iT-Boyer/AlfredSwift
 [submodule "fastlane"]
 	path = fastlane
-	url = https://github.com/it-boyer/iFastlaneRunner.git
+	url = git@github.com:it-boyer/iFastlaneRunner.git
 [submodule "iAutomator"]
 	path = iAutomator
 	url = https://github.com/it-boyer/iAutomator.git
